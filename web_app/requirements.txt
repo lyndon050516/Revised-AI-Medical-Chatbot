@@ -1,0 +1,4 @@
+pandas==2.2.2
+Pillow==10.4.0
+Requests==2.32.3
+streamlit==1.32.0
